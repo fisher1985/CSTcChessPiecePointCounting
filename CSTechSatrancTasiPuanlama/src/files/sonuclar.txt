@@ -1,0 +1,10 @@
+
+Tahta Dosya Adi				Sonuclar
+src/files/board1.txt	Siyah: 136.0 Beyaz: 134.5
+src/files/board2.txt	Siyah: 116.5 Beyaz: 123.0
+src/files/board3.txt	Siyah: 113.0 Beyaz: 109.0
+Tahta Dosya Adi				Sonuclar
+Tahta Dosya Adi				Sonuclar
+src/files/board1.txt	Siyah: 136.0 Beyaz: 134.5
+src/files/board2.txt	Siyah: 116.5 Beyaz: 123.0
+src/files/board3.txt	Siyah: 113.0 Beyaz: 109.0
