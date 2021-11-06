@@ -1,0 +1,2 @@
+# CSTcChessPiecePointCounting
+Assigment Project
